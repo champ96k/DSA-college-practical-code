@@ -1,0 +1,5 @@
+Mr. Sujit A. Ahirrao
+Sandip Institute of Engineering & Management
+Write a Java program for the implementation of different data structures using 
+JAVA collection libraries (Standard toolkit library): at least 5 data structures 
+are used to design a suitable application.

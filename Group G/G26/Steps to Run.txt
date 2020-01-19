@@ -1,0 +1,89 @@
+sujit@sujit-Inspiron-3537:~/Desktop/G26$ javac -d . Emp.java
+sujit@sujit-Inspiron-3537:~/Desktop/G26$ javac -d . EmpSal.java 
+sujit@sujit-Inspiron-3537:~/Desktop/G26$ javac -d . AccountDetails.java 
+sujit@sujit-Inspiron-3537:~/Desktop/G26$ javac -d . ATM.java 
+sujit@sujit-Inspiron-3537:~/Desktop/G26$ javac Employee.java 
+sujit@sujit-Inspiron-3537:~/Desktop/G26$ javac BankDB.java 
+sujit@sujit-Inspiron-3537:~/Desktop/G26$ java Employee 
+
+
+
+	 ****** From Emp Class ******
+
+	 Enter the employee name......AA
+
+	 Enter the employee id......1
+
+
+	 From protected void display() method 
+
+	 Employee name is: AA
+	 Employee id is: 1
+
+	 From void displayForDefault() method 
+
+	 Employee name is: AA
+	 Employee id is: 1
+
+
+	 ****** From EmpSal Class ******
+
+ 	 Enter basic salary......1000
+
+ 	 Enter DA......10
+
+ 	 Enter HRA......20
+
+ 	 Basic salary is 1000.0
+ 	 DA is 10.0
+ 	 HRA is 20.0
+sujit@sujit-Inspiron-3537:~/Desktop/G26$ 
+sujit@sujit-Inspiron-3537:~/Desktop/G26$ java BankDB
+
+
+
+	 ****** From AccountDetails Class ******
+
+	 Enter the account type......Saving
+
+	 Enter the account id......111
+
+	 Enter the account validity in months......4
+
+	 Account type is: Saving
+
+	 Account id is: 111
+
+	 Account validity is: 4 month.
+
+
+
+	 ****** From ATM Class ******
+
+	 Enter the ATM card holder name......BBB
+
+	 Enter the ATM card type......VISA
+
+	 Enter the ATM pin......1234
+
+	 ATM card holder name: BBB
+
+	 ATM card type: VISA
+
+	 ATM pin: 1234
+
+
+
+	 ****** From EmpSal Class ******
+
+ 	 Enter basic salary......10000
+
+ 	 Enter DA......10
+
+ 	 Enter HRA......20
+
+ 	 Basic salary is 10000.0
+ 	 DA is 10.0
+ 	 HRA is 20.0
+sujit@sujit-Inspiron-3537:~/Desktop/G26$
+
