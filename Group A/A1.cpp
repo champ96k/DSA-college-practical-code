@@ -1,4 +1,4 @@
-/*Mr. Avinash R. Potdar.
+/*r.
 Sandip Institute of Engineering & Management
 A book consists of chapters, chapters consist of sections and sections consist of subsections.
 Construct a tree and print the nodes. 
